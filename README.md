@@ -22,7 +22,7 @@ Basic API RESTful for Task CRUD
 <p>Task Manager CRUD API is a RESTful service for managing tasks. Perform essential CRUD operations. Supports various databases, including H2 and MySQL. Includes Swagger documentation for easy testing.</p>
 <br>
 
-<h>Swagger:</h4>
+<h4>Swagger:</h4>
 <p>API Documentation: Description of methods, structures, and returns.</p>
 
 ![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/81e30979-05b1-4cae-8eff-a48237b15bd5)
