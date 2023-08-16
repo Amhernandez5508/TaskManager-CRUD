@@ -31,7 +31,7 @@ Basic API RESTful for Task CRUD
 <h4>Get all tasks:</h4>
 <p>Method 'getAll': Returns the complete list of tasks from the database.</p>
 
-![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/b789fc7b-6a4d-429a-9800-2474455e7cfc)
+![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/06f6866e-2e8f-4502-8369-0eb0987cd18d)
 
 <h1></h1>
 
@@ -39,8 +39,6 @@ Basic API RESTful for Task CRUD
 <p>Method 'rmTask': Deletes a task based on its ID.</p>
 
 ![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/dbcbfa36-8836-4a30-9387-e101aba0ebef)
-
-
 
 
 <h2>Code & Organization</h2>
