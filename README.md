@@ -32,7 +32,8 @@ Basic API RESTful for Task CRUD
 <h4>Get all tasks:</h4>
 <p>Method 'getAll': Returns the complete list of tasks from the database.</p>
 
-![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/06f6866e-2e8f-4502-8369-0eb0987cd18d)
+![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/83ae9195-b9df-4ed9-99e9-001f4aae9e62)
+
 
 <h1></h1>
 
