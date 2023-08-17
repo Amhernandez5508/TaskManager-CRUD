@@ -25,7 +25,8 @@ Basic API RESTful for Task CRUD
 <h4>Swagger:</h4>
 <p>API Documentation: Description of methods, structures, and returns.</p>
 
-![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/81e30979-05b1-4cae-8eff-a48237b15bd5)
+![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/de1e2ce6-16eb-4731-9fd5-7cb8640bb356)
+
 
 <h1></h1>
 <h4>Get all tasks:</h4>
